@@ -1,0 +1,7 @@
+transformers
+torch
+langchain
+langchain_huggingface
+langgraph
+fastapi
+uvicorn

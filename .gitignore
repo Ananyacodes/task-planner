@@ -1,0 +1,10 @@
+# Create single .gitignore in root
+cat <<EOF > .gitignore
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+*.swp
+.DS_Store
+EOF
